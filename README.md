@@ -7,20 +7,18 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/36305142/82960184-6042d880-9fd7-11ea-86dc-93a01335dac9.png" height="300" width="300"></p>
 
+<p align="center"><img src="https://user-images.githubusercontent.com/36305142/82959094-93379d00-9fd4-11ea-8232-fa26052253e5.png" height="185" width="232"></p> 
+
 A macOS application which displays your internet latency in the status bar by showing ping to google.com.
+
+## Install
+
+[Download latest release version](https://github.com/saivittalb/latencer/releases).
 
 ## License
 This project is licensed under the Apache License 2.0, a permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code. Trademark use is also strictly prohibited. Any material found which vandalises or threatens any sort of plagiarism will be strictly given a legal action.
 
 <p align="center"> Copyright (c) 2020 Sai Vittal B. All rights reserved.</p>
-
-## Preview
-
-<p align="center"><img src="https://user-images.githubusercontent.com/36305142/82959094-93379d00-9fd4-11ea-8232-fa26052253e5.png" height="300" width="300"></p> 
-
-## Install
-
-[Download latest release version](https://github.com/saivittalb/latencer/releases).
 
 ## Contributing
 - Fork this project by clicking the ```Fork``` button on top right corner of this page.
