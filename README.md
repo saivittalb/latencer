@@ -13,7 +13,13 @@ A macOS application which displays your internet latency in the status bar by sh
 
 ## Install
 
-[Download latest release version](https://github.com/saivittalb/latencer/releases).
+[Download latest release version](https://github.com/saivittalb/latencer/releases/download/v1.0/Latencer.app.zip).
+
+###### Note 
+
+To use the app in some Macs, please grant the permission by navigating to 
+
+```System Preferences -> Security & Privacy -> General```
 
 ## License
 This project is licensed under the Apache License 2.0, a permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code. Trademark use is also strictly prohibited. Any material found which vandalises or threatens any sort of plagiarism will be strictly given a legal action.
