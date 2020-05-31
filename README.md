@@ -9,7 +9,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/36305142/82959094-93379d00-9fd4-11ea-8232-fa26052253e5.png" height="185" width="232"></p> 
 
-A macOS application which displays your internet latency in the status bar by showing ping to google.com.
+A macOS application which displays your internet latency in the menu bar by showing ping to google.com.
 
 ## Install
 
