@@ -17,7 +17,7 @@ A macOS application which displays your internet latency in the menu bar by show
 
 ###### Note 
 
-To bypass the warning for unidentified developer, grant the permission by navigating to 
+To bypass the warning of unidentified developer, grant the permission by navigating to 
 
 ```System Preferences -> Security & Privacy -> General```
 
