@@ -13,7 +13,7 @@ A macOS application which displays your internet latency in the status bar by sh
 
 ## Install
 
-[Download latest release version](https://github.com/saivittalb/latencer/releases/download/v1.0/Latencer.app.zip).
+[Download latest release version](https://github.com/saivittalb/latencer/releases/download/v1.1/Latencer.app.zip).
 
 ###### Note 
 
