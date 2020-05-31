@@ -17,7 +17,7 @@ A macOS application which displays your internet latency in the status bar by sh
 
 ###### Note 
 
-To use the app in some Macs, please grant the permission by navigating to 
+To bypass the warning for unidentified developer, grant the permission by navigating to 
 
 ```System Preferences -> Security & Privacy -> General```
 
