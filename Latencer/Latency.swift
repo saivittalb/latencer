@@ -35,7 +35,7 @@ class Latency {
     }
     
     @objc static func donate() {
-        let url = URL(string: "https://www.paypal.me/saivittalb33")!;
+        let url = URL(string: "https://www.buymeacoffee.com/saivittalb")!;
         NSWorkspace.shared.open(url);
     }
     

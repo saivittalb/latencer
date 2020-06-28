@@ -1,6 +1,6 @@
 # Latencer
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-![version](https://img.shields.io/badge/version-1.1-brightgreen)
+![version](https://img.shields.io/badge/version-1.2-brightgreen)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![GitHub followers](https://img.shields.io/github/followers/saivittalb.svg?style=social&label=Follow)](https://github.com/saivittalb?tab=followers) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/saivittalb.svg?style=social)](https://twitter.com/saivittalb) 
@@ -13,7 +13,7 @@ A macOS application which displays your internet latency in the menu bar by show
 
 ## Install
 
-[Download latest release version](https://github.com/saivittalb/latencer/releases/download/v1.1/Latencer.app.zip).
+[Download latest release version](https://github.com/saivittalb/latencer/releases/download/v1.2/Latencer.app.zip).
 
 ###### Note 
 
